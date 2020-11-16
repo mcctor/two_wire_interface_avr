@@ -1,0 +1,8 @@
+# common dev settings and build directories
+build
+.vscode
+
+# filter out generated object files
+*.o
+*.so
+
